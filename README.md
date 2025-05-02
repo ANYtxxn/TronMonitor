@@ -39,6 +39,14 @@ Create a `config.json` file with the following fields:
 - **AUTOMATIC TRANSFER**: Use this script to transfer TRX after taking profits, eliminating the need for manual transfers.
 - **Fund Management**: In multi-signature wallet scenarios, this script can automatically transfer excess funds to other addresses to help manage them.
 
+## Premium version
+The current script is a free trial version
+Contact **TG@chidafen @tronluke** for paid version
+#### Paid Features
+1. Customized TRC20 token transfers (USDT, etc.)
+2. Multi-address simultaneous monitoring
+3. Better monitoring mechanism
+4. More customization with additional features
 
 ----
 
